@@ -44,7 +44,9 @@ pip install -r requirements.txt
 
 python src/app.py
 
-How It Works
+```
+
+## How It Works: 
 1.MTCNN detects face & landmarks.
 
 2.InsightFace (ArcFace) generates a 512-dim embedding.
