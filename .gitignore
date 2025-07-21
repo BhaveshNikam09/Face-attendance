@@ -1,0 +1,14 @@
+venv/
+__pycache__/
+*.pyc
+*.pyd
+*.dll
+*.so
+.DS_Store
+.idea/
+src/insightface 
+venv/
+__pycache__/
+*.pyd
+*.dll
+*.so
