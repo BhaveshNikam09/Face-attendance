@@ -47,7 +47,7 @@ python src/app.py
 ```
 
 ## How It Works: 
-1.MTCNN detects face & landmarks.
+1.MTCNN detects face & landmarks and tensorflow(keras).
 
 2.InsightFace (ArcFace) generates a 512-dim embedding.
 
