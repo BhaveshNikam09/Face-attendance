@@ -55,8 +55,3 @@ How It Works
 
 
 
----
-
-This version will look **well-aligned and readable on GitHub**, mobile-friendly, and avoids markdown box overflows.
-
-Want me to create a version with emoji badges or project screenshots too?
